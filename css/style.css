@@ -65,6 +65,13 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+#buttons a {
+    text-decoration: none;
+    color: #fff;
+}
+#buttons div i {
+    color: #fff;
+}
 .controls {
     display: flex;
     align-items: center;
