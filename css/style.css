@@ -11,7 +11,11 @@ body {
     line-height: 30px;
 
 }
+<<<<<<< HEAD
 #controls-up a {
+=======
+a {
+>>>>>>> c6ec8e8c3230515788f8e317e542395ef145519b
     background-color: #444;
     border-radius: 5px;
     padding: 0 10px;
